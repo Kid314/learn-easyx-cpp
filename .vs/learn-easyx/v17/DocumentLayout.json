@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\c\u002B\u002B_project\\learn-easyx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D538393A-4EC4-4B73-BF5B-49B9A5EDA271}|learn-easyx\\learn-easyx.vcxproj|G:\\c\u002B\u002B_project\\learn-easyx\\learn-easyx\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D538393A-4EC4-4B73-BF5B-49B9A5EDA271}|learn-easyx\\learn-easyx.vcxproj|solutionrelative:learn-easyx\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\c\u002B\u002B_project\\learn-easyx\\learn-easyx\\main.cpp",
+              "RelativeDocumentMoniker": "learn-easyx\\main.cpp",
+              "ToolTip": "G:\\c\u002B\u002B_project\\learn-easyx\\learn-easyx\\main.cpp",
+              "RelativeToolTip": "learn-easyx\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:44:43.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
